@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+#include <string.h>
+
+int main()
+{
+
+char a[10]= "Hello";
+
+char b[10]= "World";
+
+Strcat (a, b);
+
+Printf ("Output string after concatenation: %s", a);
+
+return 0;
+
+}
